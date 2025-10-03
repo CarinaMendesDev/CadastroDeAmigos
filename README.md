@@ -1,4 +1,4 @@
-# 📋 Sistema de Cadastro de Amigos
+# 📋 Sistema de Cadastro de Amigos PHP
 Sistema simples de cadastro, listagem, edição e exclusão de amigos, desenvolvido em PHP com MySQL, ideal para fins acadêmicos.
 
 ## 🚀 Tecnologias utilizadas
